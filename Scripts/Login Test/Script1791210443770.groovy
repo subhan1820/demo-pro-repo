@@ -21,5 +21,3 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('qasixsigmafunnels.schoolyug.com')
 
-WebUI.closeBrowser()
-
